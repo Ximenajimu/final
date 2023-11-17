@@ -1,0 +1,17 @@
+<HTML>
+<HEAD><TITLE> PROYECTO 1 </TITLE></HEAD>
+
+<BODY bgcolor=”#FFED00”>
+<font color="black" size=12> BIENVENIDO </font><BR>
+<TABLE border=1 BGCOLOR="WHITE"> 
+<TR>
+<CENTER><IMG SRC="JIMAR.JFIF" WIDTH=580PX HEIGHT=380PX></CENTER>
+</TR>
+</TABLE>
+
+
+</BODY>
+
+
+
+</HTML>
